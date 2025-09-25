@@ -18,7 +18,9 @@ Saves results as CSV & Excel.
 Performs basic analysis (job count per city).
 
 ├── india-news-headlines.csv       # Dataset for Project 1
+
 ├── 2301201220_PROJECT.ipynb       # Notebook for Project 1 & 2
+
 └── README.md                      # Project Documentation
 
 Requirements
